@@ -1,3 +1,3 @@
-this will be some documentation of my DIY guitar pedals nn
+this will be some documentation of my DIY guitar pedals and synths
 
-- [NOTaMUFF](./NOTaMUFF.md)
+- [Rob Hordijks Benjolin](./benjolin.md)
