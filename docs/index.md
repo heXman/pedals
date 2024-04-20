@@ -16,3 +16,5 @@ Here will be some documentation of my DIY guitar pedals and synths
 ## Synths
 
 - [Rob Hordijks Benjolin](./benjolin.md)
+
+## Other
