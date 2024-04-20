@@ -1,7 +1,9 @@
 hizumitas Elk sustainer clone pedal
+
+### an image
 ![](./images/benjolin.jpg)
 
-![](./video/gibber1_a_med.mp4)
+### <u>some video</u>
 
 <!-- blank line -->
 <video width="640" controls="" loop="">
