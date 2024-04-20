@@ -1,4 +1,4 @@
-# Here will be some documentation of my DIY guitar pedals and synths
+## Here will be some documentation of my DIY guitar pedals and synths
 
 ## Guitar FX
 
