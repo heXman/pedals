@@ -17,6 +17,7 @@
 
 ## Synths
 
+- [QUANTUM DEFRAKULATOR](./defrakulator.md)
 - [Rob Hordijks Benjolin](./benjolin.md)
 
 ## Other
